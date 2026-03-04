@@ -25,3 +25,6 @@
    ```bash
    git clone https://github.com/你的用户名/python-student-management-system.git
    cd python-student-management-system
+2. 运行主程序
+```bash
+python main.py
