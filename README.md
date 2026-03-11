@@ -27,4 +27,4 @@
    cd python-student-management-system
 2. 运行主程序
    ```bash
-python main.py
+   python main.py
