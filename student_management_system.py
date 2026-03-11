@@ -12,7 +12,7 @@ class StudentCMS(object):
     @staticmethod
     def show_view():
         print('*' * 30)
-        print("本学生管理系统V2.0可完成如下操作：")
+        print("本学生管理系统V1.0可完成如下操作：")
         print("\t1.添加学生")
         print("\t2.修改学生")
         print("\t3.删除学生")
@@ -181,3 +181,4 @@ if __name__ == '__main__':
     sms = StudentCMS()
     # print(sms.student_info)
     sms.start()
+
