@@ -16,9 +16,6 @@
 - 依赖：无第三方依赖，纯 Python 内置库实现
 
 ## 快速开始
-### 运行环境
-确保本地安装 Python 3.6+ 版本，无需额外安装依赖。
-
 ### 运行步骤
 1. 克隆本仓库到本地
    ```bash
@@ -29,7 +26,20 @@
    ```bash
    python main.py
 
-3. 使用说明
- <img width="317" height="307" alt="image" src="https://github.com/user-attachments/assets/75df1951-369c-49b9-a948-5546ff5d3a65" />
+3. 按照终端提示输入数字执行对应操作
+
+   <img width="317" height="307" alt="image" src="https://github.com/user-attachments/assets/75df1951-369c-49b9-a948-5546ff5d3a65" />
+
+## 注意事项
+1. 学生信息会保存到项目根目录的 student.txt 文件中，删除该文件会清空所有本地存储的信息；
+2. 程序启动时会自动加载 student.txt，若文件不存在会自动创建；
+3. 所有输入操作均在终端完成，暂不支持图形化界面
+
+## 后续优化
+1. 增加学号字段，保证学生信息的唯一性；
+2. 实现按年龄 / 性别等条件筛选查询；
+3. 增加数据校验（如手机号格式、年龄为数字等）；
+4. 拓展为图形化界面（Tkinter/PyQt）；
+5. 接入数据库MySQL 替代本地文本文件存储；
 
 
