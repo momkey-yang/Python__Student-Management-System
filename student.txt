@@ -1,0 +1,2 @@
+{"name": "张三", "age": "23", "gender": "男", "tel": "15123589666", "description": "爱学习"}
+{"name": "李四", "age": "24", "gender": "男", "tel": "18533778888", "description": "爱打游戏"}
