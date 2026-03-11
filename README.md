@@ -22,5 +22,14 @@
 ### 运行步骤
 1. 克隆本仓库到本地
    ```bash
-   git clone https://github.com/你的用户名/student-management-system.git
-   cd student-management-system
+   git clone https://github.com/momkey-yang/Python__Student-Management-System.git
+   cd Python__Student-Management-System
+
+2. 运行程序
+   ```bash
+   python main.py
+
+3. 使用说明
+ <img width="317" height="307" alt="image" src="https://github.com/user-attachments/assets/75df1951-369c-49b9-a948-5546ff5d3a65" />
+
+
